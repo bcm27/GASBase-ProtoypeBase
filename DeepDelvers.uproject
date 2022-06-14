@@ -23,7 +23,7 @@
 		},
 		{
 			"Name": "AGRPRO",
-			"Enabled": false,
+			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/c4f13f7fc2c048d8ad4985ecfbf4f6c6"
 		},
 		{
@@ -60,6 +60,31 @@
 		{
 			"Name": "GameplayAbilities",
 			"Enabled": true
+		},
+		{
+			"Name": "AssetsCleaner",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/3caab7c6e81f449296989122c043ae21"
+		},
+		{
+			"Name": "BlockoutToolsPlugin",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/d337b97aca8947a893526964e179acfd"
+		},
+		{
+			"Name": "EasyMultiSave",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/7232621c23174bbbbb64c7bfb6583f6f"
+		},
+		{
+			"Name": "DungeonArchitect",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/1a4ad2a06f174a26af8a29728241ce42"
+		},
+		{
+			"Name": "AutoSizeComments",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/ae89a2c4ab384de0a3f213b23de324f3"
 		}
 	]
 }
